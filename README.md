@@ -1,6 +1,6 @@
 # 👋 Hi, I'm kenwoodly!
 
-A passionate Frontend Developer focused on creating responsive, clean, and modern web interfaces and applications.
+Frontend Developer focused on engineering responsive, accessible, and optimized user interfaces.
 
 ---
 
